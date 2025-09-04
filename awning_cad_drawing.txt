@@ -1,0 +1,108 @@
+CANTILEVERED MONOPITCH AWNING - CAD DRAWING
+==========================================
+
+SIDE VIEW (Elevation):
+                    
+    WALL            SPINE BEAM (7500mm)
+     |    ╔═══════════════════════════════════════════════════════════════╗
+     |    ║                                                               ║ 38x38x2 SHS
+     |    ╚═══════════════════════════════════════════════════════════════╝
+     |        ╲                                                         ╱
+     |         ╲ CONNECTING RAFTER (976mm @ 35°)                      ╱
+     |          ╲                                                    ╱
+     |           ╲                                                 ╱
+     |            ╲                                              ╱
+     |             ╲                                           ╱
+     |              ╲                                        ╱
+     |               ╲                                     ╱
+     |                ╲                                  ╱
+560mm|                 ╲                               ╱
+     |                  ╲                            ╱
+     |                   ╲                         ╱
+     |                    ╲                      ╱
+     |                     ╲ KICKER BRACE      ╱
+     |                      ╲ (1131mm @ 45°) ╱
+     |                       ╲             ╱
+     |                        ╲          ╱
+     |                         ╲       ╱
+     |    ╔═══════════════════════╲════╱═══════════════════════════════════╗
+     |    ║ WALL PLATE (7500mm)    ╲ ╱                                    ║ 38x38x2 SHS
+     |    ╚═════════════════════════╲╱═════════════════════════════════════╝
+     |                              ╚═══════════════════════════════════════╗
+     |                              HORIZONTAL RAFTER (7500mm)             ║ 38x38x2 SHS
+     |                              ╔═══════════════════════════════════════╝
+     
+     |←────────── 800mm PROJECTION ──────────→|
+
+PLAN VIEW (Top):
+
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                    SPINE BEAM                                 ║ 38x38x2 SHS
+    ╚═══════════════════════════════════════════════════════════════╝
+    ║                       │                       │               ║
+    ║   CONNECTING RAFTER   │   CONNECTING RAFTER   │   CONNECTING  ║
+    ║        #1             │        #2             │   RAFTER #3   ║
+    ║                       │                       │               ║
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                 HORIZONTAL RAFTER                             ║ 38x38x2 SHS
+    ╚═══════════════════════════════════════════════════════════════╝
+    
+    |←─ 1500 ─→|←─ 1500 ─→|←─ 1500 ─→|←─ 1500 ─→|←─ 1500 ─→|
+    |←──────────────── 7500mm LENGTH ─────────────────→|
+
+KICKER BRACE LAYOUT:
+
+    WALL PLATE: ╔═══════════════════════════════════════════════════════════════╗
+                ║  KB1    KB2    KB3    KB4    KB5                              ║
+                ╚═══╲═════╲═════╲═════╲═════╲═════════════════════════════════╝
+                     ╲     ╲     ╲     ╲     ╲
+                      ╲     ╲     ╲     ╲     ╲  KICKER BRACES
+                       ╲     ╲     ╲     ╲     ╲ (1131mm each @ 45°)
+                        ╲     ╲     ╲     ╲     ╲
+    HORIZONTAL RAFTER: ╔═╲═════╲═════╲═════╲═════╲═══════════════════════════╗
+                       ║  ╲     ╲     ╲     ╲     ╲                          ║
+                       ╚═══╲═════╲═════╲═════╲═════╲═════════════════════════╝
+    
+    Spacing: |←1500→|←1500→|←1500→|←1500→|←1500→|
+
+DETAIL VIEWS:
+
+CONNECTION DETAIL A (Spine Beam to Wall):
+    
+    WALL ████████████
+         ████████████ ╔═══════════════════╗
+         ████████████ ║   SPINE BEAM      ║ 38x38x2 SHS
+         ████████████ ╚═══════════════════╝
+         ████████████     │ │ │ │ │
+         ████████████     │ │ │ │ │ M12 BOLTS
+         ████████████     ▼ ▼ ▼ ▼ ▼ (Chemical anchors)
+
+CONNECTION DETAIL B (Kicker Brace Joints):
+
+    WALL PLATE ╔═══════════════════╗
+               ║                   ║ 38x38x2 SHS  
+               ╚═══════════════════╝
+                        ╱│╲ WELD ALL AROUND
+                       ╱ │ ╲
+                      ╱  │  ╲ KICKER BRACE
+                     ╱   │   ╲ 38x38x2 SHS
+                    ╱    │    ╲
+               ╔═══════════════════╗
+               ║ HORIZONTAL RAFTER ║ 38x38x2 SHS
+               ╚═══════════════════╝
+
+DIMENSIONS SUMMARY:
+==================
+- Overall length: 7,500mm
+- Projection: 800mm
+- Rise: 560mm
+- Slope angle: 35°
+- Kicker brace spacing: 1,500mm centers
+- All members: 38x38x2mm SHS
+
+NOTES:
+- All dimensions in millimeters
+- All angles approximate for fabrication
+- Verify all dimensions on site before cutting
+- All steelwork to be galvanized or painted
+- Structural engineer approval required

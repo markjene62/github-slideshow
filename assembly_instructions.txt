@@ -1,0 +1,217 @@
+ASSEMBLY INSTRUCTIONS - CANTILEVERED MONOPITCH AWNING
+====================================================
+
+SAFETY FIRST:
+- Wear appropriate PPE (safety glasses, gloves, hard hat)
+- Ensure adequate temporary support during assembly
+- Have fire extinguisher available during welding
+- Check weather conditions (no welding in rain)
+- Two-person minimum for handling long sections
+
+PRE-FABRICATION CHECKLIST:
+==========================
+□ All materials delivered and checked
+□ All tools and equipment available
+□ Work area cleared and level
+□ Wall structure checked for adequacy
+□ Building permits/approvals obtained
+□ Temporary supports prepared
+
+FABRICATION SEQUENCE:
+====================
+
+STEP 1: PREPARATION
+- Set up level work area (minimum 8m x 2m)
+- Lay out all steel sections
+- Check all dimensions against cutting list
+- Clean all cut ends of burrs
+- Mark all connection points
+
+STEP 2: WALL PLATE INSTALLATION
+- Mark wall plate position on wall
+- Check wall is plumb and level
+- Mark fixing positions every 1000mm (8 fixings)
+- Drill holes for M10 anchors
+- Install chemical anchors or expansion bolts
+- Mount wall plate ensuring level
+- Check projection dimension (800mm to front edge)
+
+STEP 3: SPINE BEAM INSTALLATION  
+- Mark spine beam position 560mm above wall plate
+- Ensure spine beam is parallel to wall plate
+- Mark fixing positions (4 No. M12 bolts)
+- Drill holes for M12 anchors
+- Install chemical anchors
+- Mount spine beam ensuring level and parallel
+- Check 35° slope angle with inclinometer
+
+STEP 4: KICKER BRACE FABRICATION
+- Cut 5 kicker braces to 1131mm length
+- Mark connection points on each end
+- Prepare end connections (fish-mouth cuts if welding)
+- Check angle fits between wall plate and horizontal rafter position
+
+STEP 5: HORIZONTAL RAFTER POSITIONING
+- Mark horizontal rafter position 800mm from wall
+- Set up temporary supports at correct height
+- Position horizontal rafter parallel to wall plate
+- Check alignment with kicker brace positions
+- Temporarily clamp in position
+
+STEP 6: KICKER BRACE INSTALLATION
+- Starting from center, position first kicker brace
+- Check angle (approximately 45° to horizontal)
+- Tack weld in position
+- Install remaining kicker braces at 1500mm centers
+- Check all alignments before final welding
+- Complete all welds with 6mm fillet welds all around
+
+STEP 7: CONNECTING RAFTERS
+- Cut 5 connecting rafters to 976mm length
+- Position between spine beam and horizontal rafter
+- Maintain 35° slope angle
+- Space at 1500mm centers (align with kicker braces)
+- Tack weld in position
+- Check alignment and complete final welds
+
+STEP 8: FINAL WELDING
+- Complete all weld joints
+- Grind smooth any rough welds
+- Check all connections are secure
+- Remove temporary supports carefully
+- Test structure for any movement
+
+WELDING SPECIFICATIONS:
+======================
+
+WELD TYPES:
+- All connections: 6mm fillet welds
+- Weld all around tube connections
+- Minimum throat thickness: 4mm
+- Weld class: SP (structural purpose)
+
+WELDING PROCEDURE:
+- Clean all surfaces to bright metal
+- Use appropriate welding rods/wire (E7018 or ER70S-6)
+- Maintain consistent travel speed
+- Allow cooling between passes
+- Check for cracks or porosity
+
+WELD INSPECTION:
+- Visual inspection of all welds
+- Check for complete penetration
+- No cracks, undercut, or excessive spatter
+- Grind smooth where required
+
+QUALITY CONTROL CHECKS:
+======================
+
+DIMENSIONAL CHECKS:
+□ Overall length: 7500mm ±10mm
+□ Projection: 800mm ±5mm  
+□ Slope angle: 35° ±2°
+□ Kicker spacing: 1500mm ±10mm
+□ Wall plate level: ±2mm over length
+□ Spine beam level: ±2mm over length
+
+STRUCTURAL CHECKS:
+□ All welds complete and sound
+□ No movement in connections
+□ Wall fixings tight and secure
+□ Structure stable under light loading
+□ No visible deflection
+
+ALIGNMENT CHECKS:
+□ All rafters parallel
+□ Kicker braces symmetrical
+□ Front edge straight
+□ No twist in structure
+
+SURFACE TREATMENT:
+=================
+
+PREPARATION:
+- Remove all weld spatter
+- Wire brush all surfaces
+- Degrease with solvent
+- Apply rust converter if needed
+
+PAINTING:
+- Apply metal primer (2 coats)
+- Allow proper drying time
+- Apply topcoat (2 coats)
+- Use brush for detailed areas
+- Roller for flat surfaces
+
+INSTALLATION NOTES:
+==================
+
+ROOFING ATTACHMENT:
+- Install roofing brackets every 600mm
+- Use self-drilling screws with washers
+- Maintain consistent slope
+- Ensure adequate overlap
+- Install guttering if required
+
+FINAL INSPECTION:
+- Check all connections tight
+- Verify no movement under load
+- Test drainage (if gutters fitted)
+- Document completion
+- Obtain structural engineer sign-off
+
+MAINTENANCE SCHEDULE:
+====================
+
+ANNUALLY:
+- Check all bolted connections
+- Inspect welds for cracks
+- Check paint condition
+- Clear any debris from structure
+
+EVERY 5 YEARS:
+- Repaint as required
+- Professional structural inspection
+- Check wall fixings
+
+TROUBLESHOOTING:
+===============
+
+PROBLEM: Excessive deflection
+SOLUTION: Check kicker brace connections, add intermediate support
+
+PROBLEM: Weld cracking
+SOLUTION: Grind out crack, re-weld with proper procedure
+
+PROBLEM: Wall fixing loose
+SOLUTION: Re-drill, install larger anchors or additional fixings
+
+PROBLEM: Water pooling
+SOLUTION: Check slope angle, adjust if possible
+
+WARRANTY NOTES:
+==============
+- Structural adequacy depends on proper installation
+- All work should be inspected by qualified engineer
+- Warranty void if modifications made without approval
+- Regular maintenance required to maintain warranty
+
+COMPLETION CHECKLIST:
+====================
+□ All fabrication complete
+□ All welds inspected and approved
+□ Dimensional checks passed
+□ Surface treatment applied
+□ Structure tested under load
+□ Documentation complete
+□ Client handover completed
+□ Maintenance schedule provided
+
+EMERGENCY CONTACTS:
+==================
+Structural Engineer: [Contact details]
+Local Building Inspector: [Contact details]
+Steel Supplier: [Contact details]
+Emergency Services: [Local numbers]
+
+This completes the assembly instructions for your cantilevered monopitch awning.
