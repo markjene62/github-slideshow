@@ -1,0 +1,198 @@
+PARTS LIST AND CUTTING SCHEDULE
+===============================
+
+PROJECT: Cantilevered Monopitch Awning
+MATERIAL: 38mm x 38mm x 2mm SHS (Square Hollow Section)
+DATE: [Current Date]
+
+STEEL COMPONENTS:
+================
+
+ITEM 1: SPINE BEAM
+- Quantity: 1
+- Length: 7,500 mm
+- Material: 38x38x2 SHS
+- Weight: 16.65 kg
+- Notes: Main structural beam, attaches to wall
+
+ITEM 2: WALL PLATE  
+- Quantity: 1
+- Length: 7,500 mm
+- Material: 38x38x2 SHS
+- Weight: 16.65 kg
+- Notes: Lower wall attachment, 560mm below spine beam
+
+ITEM 3: HORIZONTAL RAFTER
+- Quantity: 1
+- Length: 7,500 mm
+- Material: 38x38x2 SHS
+- Weight: 16.65 kg
+- Notes: Front edge beam, connects all kicker braces
+
+ITEM 4: KICKER BRACES
+- Quantity: 5
+- Length: 1,131 mm each
+- Total length: 5,655 mm
+- Material: 38x38x2 SHS
+- Weight: 12.55 kg total
+- Notes: Angled supports at 45° to horizontal
+
+ITEM 5: CONNECTING RAFTERS
+- Quantity: 5
+- Length: 976 mm each
+- Total length: 4,880 mm
+- Material: 38x38x2 SHS
+- Weight: 10.83 kg total
+- Notes: Slope rafters at 35°, support roofing
+
+STEEL SUMMARY:
+=============
+Total SHS length required: 31,535 mm = 31.54 meters
+Total weight of steel: 73.33 kg
+Standard length tubes (6m): 6 tubes required
+Waste allowance (10%): 3.15 meters
+Order quantity: 35 meters (6 x 6m tubes)
+
+CUTTING SCHEDULE:
+================
+
+TUBE 1 (6000mm):
+- Cut 1: 7500mm - NOT POSSIBLE (tube too short)
+
+REVISED CUTTING SCHEDULE:
+========================
+
+Purchase 7.5m lengths or weld shorter pieces:
+
+Option A - 7.5m tubes:
+TUBE 1: Spine beam (7500mm) - no waste
+TUBE 2: Wall plate (7500mm) - no waste  
+TUBE 3: Horizontal rafter (7500mm) - no waste
+
+Option B - 6m standard tubes:
+TUBE 1 (6000mm):
+- Wall plate section 1: 6000mm
+
+TUBE 2 (6000mm):
+- Wall plate section 2: 1500mm (weld to section 1)
+- Kicker brace 1: 1131mm
+- Kicker brace 2: 1131mm
+- Kicker brace 3: 1131mm
+- Waste: 107mm
+
+TUBE 3 (6000mm):
+- Kicker brace 4: 1131mm
+- Kicker brace 5: 1131mm
+- Connecting rafter 1: 976mm
+- Connecting rafter 2: 976mm
+- Connecting rafter 3: 976mm
+- Waste: 810mm
+
+TUBE 4 (6000mm):
+- Connecting rafter 4: 976mm
+- Connecting rafter 5: 976mm
+- Horizontal rafter section 1: 4048mm
+
+TUBE 5 (6000mm):
+- Horizontal rafter section 2: 3452mm (weld to section 1)
+- Spine beam section 1: 2548mm
+
+TUBE 6 (6000mm):
+- Spine beam section 2: 4952mm (weld to section 1)
+- Waste: 1048mm
+
+HARDWARE AND FIXINGS:
+====================
+
+WALL FIXINGS (Spine Beam):
+- M12 x 150mm hex bolts: 4 No.
+- M12 washers: 8 No.
+- M12 nuts: 4 No.
+- Chemical anchors M12: 4 No.
+- Or expansion bolts M12 x 150mm: 4 No.
+
+WALL FIXINGS (Wall Plate):
+- M10 x 100mm hex bolts: 8 No. (every 1m)
+- M10 washers: 16 No.
+- M10 nuts: 8 No.
+- Chemical anchors M10: 8 No.
+
+WELDING CONSUMABLES:
+- Welding rods 3.2mm: 2 kg
+- Or MIG wire 0.8mm: 1 kg
+- Grinding discs: 5 No.
+
+SURFACE TREATMENT:
+- Metal primer: 1 liter
+- Topcoat paint: 1 liter
+- Rust converter (if needed): 0.5 liter
+- Brushes/rollers: As required
+
+TOOLS REQUIRED:
+==============
+
+CUTTING:
+- Angle grinder with cutting discs
+- Or cold saw/bandsaw
+- Measuring tape
+- Square
+- Marker pen
+
+WELDING:
+- MIG or stick welder
+- Welding helmet
+- Welding gloves
+- Clamps and jigs
+
+INSTALLATION:
+- Hammer drill
+- M12 and M10 drill bits
+- Socket set
+- Level
+- Chalk line
+
+OPTIONAL EXTRAS:
+===============
+
+ROOFING ATTACHMENT:
+- Self-drilling screws: 50 No.
+- Rubber washers: 50 No.
+- Tek screws 12-14 x 50mm
+
+GUTTERING BRACKETS:
+- Gutter brackets: 8 No.
+- Fixings for brackets: 16 No.
+
+COST ESTIMATE (Approximate):
+===========================
+Steel (35m @ $8/m): $280
+Hardware/fixings: $150
+Welding consumables: $50
+Paint/primer: $80
+Labor (estimated): $800-1200
+Total material cost: ~$560
+Total project cost: ~$1,360-1,760
+
+DELIVERY NOTES:
+==============
+- Steel to be delivered to site
+- Check access for 7.5m lengths
+- Store steel off ground, covered
+- Order hardware 1 week before installation
+- Arrange welding equipment hire if needed
+
+QUALITY CONTROL:
+===============
+- Check all cuts for square
+- Verify all dimensions before welding
+- Test weld quality on sample pieces
+- Check alignment during assembly
+- Inspect all connections before loading
+
+SAFETY NOTES:
+============
+- All work to comply with local safety regulations
+- Use appropriate PPE during fabrication
+- Ensure adequate temporary support during installation
+- Professional installation recommended
+- Structural engineer approval required before use

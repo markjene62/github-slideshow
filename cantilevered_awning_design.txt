@@ -1,0 +1,119 @@
+CANTILEVERED MONOPITCH AWNING - STEEL FRAME DESIGN
+=================================================
+
+DESIGN SPECIFICATIONS:
+- Material: 38mm x 38mm x 2mm SHS (Square Hollow Section)
+- Length (L): 7,500 mm
+- Projection (P): 800 mm
+- Slope (θ): 35°
+- Number of kicker braces: 5
+
+CALCULATED DIMENSIONS:
+- Rafter length: 976 mm
+- Rise at front: 560 mm
+- Kicker brace length: 1,131 mm (at 45° to horizontal)
+- Kicker spacing: 1,500 mm centers (7,500 ÷ 5 = 1,500mm)
+
+STRUCTURAL COMPONENTS:
+
+1. SPINE BEAM (Main structural member)
+   - Length: 7,500 mm
+   - Material: 38x38x2 SHS
+   - Position: Attached to wall at height to achieve 35° slope
+   - Function: Primary load-bearing member, transfers loads to wall
+
+2. WALL PLATE
+   - Length: 7,500 mm  
+   - Material: 38x38x2 SHS
+   - Position: Fixed to wall 560mm below spine beam
+   - Function: Lower attachment point, distributes loads to wall structure
+
+3. HORIZONTAL RAFTER
+   - Length: 7,500 mm
+   - Material: 38x38x2 SHS
+   - Position: 800mm out from wall, connecting all kicker braces
+   - Function: Distributes loads between kicker braces, provides edge beam
+
+4. KICKER BRACES (5 No.)
+   - Length: 1,131 mm each
+   - Material: 38x38x2 SHS
+   - Angle: 45° to horizontal (approximately)
+   - Spacing: 1,500mm centers
+   - Position: From wall plate to horizontal rafter
+   - Function: Transfer vertical loads to wall, provide structural stability
+
+5. CONNECTING RAFTERS (Between spine and horizontal rafter)
+   - Length: 976 mm each (5 No.)
+   - Material: 38x38x2 SHS
+   - Angle: 35° slope
+   - Spacing: 1,500mm centers
+   - Function: Support roofing material, transfer loads to main structure
+
+ASSEMBLY DETAILS:
+
+Wall Connections:
+- Spine beam: Fixed to wall with appropriate brackets/bolts
+- Wall plate: Fixed to wall 560mm below spine beam
+- Use M12 bolts minimum, chemical anchors for masonry walls
+
+Joint Connections:
+- All tube connections via welding or mechanical connectors
+- Kicker braces connect wall plate to horizontal rafter
+- Connecting rafters span from spine beam to horizontal rafter
+- All connections must be designed for tension and compression
+
+LOADING CONSIDERATIONS:
+- Dead load: Self weight + roofing material
+- Live load: Maintenance access (0.25 kN/m²)
+- Wind load: Uplift and downward pressure
+- Snow load: If applicable to location
+
+MATERIAL PROPERTIES (38x38x2 SHS):
+- Section modulus: ~3.46 cm³
+- Moment of inertia: ~6.58 cm⁴
+- Cross-sectional area: ~2.83 cm²
+- Weight: ~2.22 kg/m
+
+CRITICAL DESIGN POINTS:
+1. Wall attachment must be adequate for cantilever loads
+2. Kicker braces critical for reducing bending moment in spine beam
+3. All connections must resist both tension and compression
+4. Consider lateral torsional buckling of spine beam
+5. Deflection limits: Span/250 for permanent loads
+
+FABRICATION NOTES:
+- All cuts to be square and clean
+- Weld all connections with appropriate fillet welds
+- Prime and paint all steelwork for corrosion protection
+- Consider pre-drilling for roofing attachment points
+
+INSTALLATION SEQUENCE:
+1. Mark and fix wall plate to wall
+2. Mark and fix spine beam to wall
+3. Install kicker braces between wall plate and temporary supports
+4. Install horizontal rafter connecting all kicker braces
+5. Install connecting rafters between spine beam and horizontal rafter
+6. Check alignment and square before final welding
+7. Install roofing material
+
+PARTS LIST:
+=========
+
+38mm x 38mm x 2mm SHS:
+- 1 x 7,500mm (Spine beam)
+- 1 x 7,500mm (Wall plate)  
+- 1 x 7,500mm (Horizontal rafter)
+- 5 x 1,131mm (Kicker braces) = 5,655mm total
+- 5 x 976mm (Connecting rafters) = 4,880mm total
+
+Total SHS required: ~31,535mm = 31.5 meters
+
+Hardware:
+- Wall fixings (bolts/anchors) as per wall type
+- Welding consumables or mechanical connectors
+- Primer and paint system
+- Roofing attachment hardware
+
+Note: This design provides a basic structural framework. Detailed structural 
+calculations should be performed by a qualified structural engineer to verify 
+adequacy for specific loading conditions and local building codes.

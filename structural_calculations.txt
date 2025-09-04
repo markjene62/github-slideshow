@@ -1,0 +1,135 @@
+STRUCTURAL CALCULATIONS - CANTILEVERED MONOPITCH AWNING
+======================================================
+
+DESIGN DATA:
+- Material: 38x38x2mm SHS (Square Hollow Section)
+- Steel grade: Assume S355 (fy = 355 N/mm²)
+- Length: 7,500mm
+- Projection: 800mm
+- Slope: 35°
+
+SECTION PROPERTIES (38x38x2 SHS):
+- Cross-sectional area (A): 283 mm²
+- Section modulus (Sx): 3,460 mm³
+- Moment of inertia (Ix): 6,574 mm⁴
+- Radius of gyration (rx): 4.82 mm
+- Weight: 2.22 kg/m
+
+LOADING ASSUMPTIONS:
+===================
+
+Dead Loads (DL):
+- Self weight of steel frame: ~2.22 kg/m × 31.5m = 70 kg ≈ 0.7 kN
+- Roofing (corrugated sheet): 0.15 kN/m²
+- Total DL = 0.15 × (7.5 × 0.8) = 0.9 kN
+
+Live Loads (LL):
+- Maintenance load: 0.25 kN/m² (concentrated)
+- Total LL = 0.25 × (7.5 × 0.8) = 1.5 kN
+
+Wind Loads (WL):
+- Uplift: 1.0 kN/m² (conservative)
+- Downward: 0.5 kN/m²
+- Total uplift WL = 1.0 × (7.5 × 0.8) = 6.0 kN
+- Total downward WL = 0.5 × (7.5 × 0.8) = 3.0 kN
+
+LOAD COMBINATIONS:
+- Ultimate: 1.35DL + 1.5LL = 1.35(0.9) + 1.5(1.5) = 3.47 kN
+- Wind uplift: 1.0DL + 1.5WL = 1.0(0.9) + 1.5(6.0) = 9.9 kN
+- Wind down: 1.35DL + 1.5WL = 1.35(0.9) + 1.5(3.0) = 5.72 kN
+
+CRITICAL LOAD CASE: Wind uplift = 9.9 kN
+
+ANALYSIS OF SPINE BEAM:
+======================
+
+The spine beam acts as a cantilever with the kicker braces providing intermediate support.
+
+Without kicker braces:
+- Cantilever moment: M = WL²/2 = 9.9 × 0.8²/2 = 3.17 kN⋅m
+- Required section modulus: Sx,req = M/fy = 3,170,000/355 = 8,930 mm³
+- Available Sx = 3,460 mm³ << 8,930 mm³ (INADEQUATE)
+
+With kicker braces (5 No. @ 1.5m centers):
+- Kicker braces reduce the effective cantilever length
+- Each kicker takes load proportionally
+- Load per kicker ≈ 9.9/5 = 1.98 kN
+
+Revised analysis with kicker support:
+- Maximum span between supports ≈ 1.5m
+- Moment in spine beam (between kickers): M = 1.98 × 1.5²/8 = 0.56 kN⋅m
+- Required Sx = 560,000/355 = 1,577 mm³
+- Available Sx = 3,460 mm³ > 1,577 mm³ (ADEQUATE)
+
+KICKER BRACE ANALYSIS:
+=====================
+
+Each kicker brace carries: P = 1.98 kN (tension under uplift)
+
+Tension capacity:
+- Gross area = 283 mm²
+- Net area (assume 85% gross) = 241 mm²
+- Tension capacity = 0.9 × fy × Anet = 0.9 × 355 × 241 = 77.0 kN
+- Utilization = 1.98/77.0 = 2.6% (ADEQUATE)
+
+Compression capacity (if downward loads):
+- Effective length = 1,131mm
+- Slenderness ratio = Le/r = 1,131/4.82 = 235
+- For λ = 235, reduction factor χ ≈ 0.15 (very slender)
+- Compression capacity ≈ 0.15 × 355 × 283 = 15.1 kN
+- Maximum compression = 5.72/5 = 1.14 kN
+- Utilization = 1.14/15.1 = 7.5% (ADEQUATE but slender)
+
+DEFLECTION CHECK:
+================
+
+Serviceability limit (DL + LL = 2.4 kN):
+- Load per kicker = 2.4/5 = 0.48 kN
+- Deflection of spine beam (simply supported over 1.5m):
+  δ = 5wL⁴/(384EI) where w = 0.48/1.5 = 0.32 kN/m
+- δ = 5 × 0.32 × 1500⁴/(384 × 210,000 × 6,574) = 0.61 mm
+- Allowable = L/250 = 1500/250 = 6 mm
+- δ = 0.61 mm < 6 mm (ADEQUATE)
+
+CONNECTION DESIGN:
+=================
+
+Wall Connection (Spine Beam):
+- Reaction = 9.9 kN (uplift)
+- Use 4 × M12 bolts, 150mm centers
+- Bolt capacity in tension ≈ 25 kN each
+- Total capacity = 4 × 25 = 100 kN > 9.9 kN (ADEQUATE)
+
+Wall Connection (Wall Plate):
+- Compression force from kickers = 5 × 1.98 cos(45°) = 7.0 kN
+- Use continuous fixing with chemical anchors
+- Capacity adequate for compression loads
+
+Welded Connections:
+- All tube-to-tube connections: 6mm fillet welds
+- Weld capacity >> applied loads (ADEQUATE)
+
+SUMMARY:
+========
+
+✓ Spine beam adequate with kicker brace support
+✓ Kicker braces adequate in tension
+⚠ Kicker braces slender in compression (consider lateral restraint)
+✓ Deflections within limits
+✓ Connection capacities adequate
+✓ Overall structural adequacy confirmed
+
+RECOMMENDATIONS:
+===============
+
+1. Proceed with 38x38x2 SHS as specified
+2. Ensure adequate wall fixings (M12 bolts minimum)
+3. Consider lateral restraint for kicker braces
+4. Professional structural engineer review recommended
+5. Comply with local building codes and wind loading
+
+NOTES:
+- Calculations are preliminary and conservative
+- Actual wind loads may vary by location
+- Professional engineering review required
+- All assumptions should be verified for specific application
